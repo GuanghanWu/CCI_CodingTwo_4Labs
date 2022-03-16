@@ -5,6 +5,6 @@
 ## Second is "cute moving hearts" made on Open Framework(C++)
 
 ## Third is "cute moving hearts" made by python and html
-### Init you need use python to tackle this problems
+Init you need use python to tackle this problems
 
 ## Fourth is "cute moving hearts" made by python
