@@ -3,6 +3,6 @@
 ## https://guanghanwu.github.io/CCI_CodingTwo_4Labs/LabThreeMyPythonChallenges/htmls/ChallengeBegin.html
 
 ## If need help, my own solutions are here:
-https://github.com/GuanghanWu/CCI_CodingTwo_4Labs/tree/main/LabThreeMyPythonChallenges/htmls/MySolutions
+## https://github.com/GuanghanWu/CCI_CodingTwo_4Labs/tree/main/LabThreeMyPythonChallenges/htmls/MySolutions
 
 ## Thank you for participating this!
