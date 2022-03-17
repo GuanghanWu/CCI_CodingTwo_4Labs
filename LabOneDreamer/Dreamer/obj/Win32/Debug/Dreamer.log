@@ -1,0 +1,12 @@
+﻿  LINK : 没有找到 bin\Dreamer_debug.exe 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 bin\Dreamer_debug.lib 和对象 bin\Dreamer_debug.exp
+  Dreamer.vcxproj -> C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\apps\myApps\Dreamer\bin\Dreamer_debug.exe
+  
+  	                   2	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\libs\fmod\lib\vs\Win32\
+  	    New File  		 1544704	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\libs\fmod\lib\vs\Win32\fmod.dll
+  	    New File  		 1733120	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\libs\fmod\lib\vs\Win32\fmodL.dll
+  
+  	                   1	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1544704	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\apps\myApps\Dreamer\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\apps\myApps\Dreamer\bin\fmodL.dll
+  	    New File  		 6018560	C:\Users\GHWPe\Study\OF_v20220226_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
