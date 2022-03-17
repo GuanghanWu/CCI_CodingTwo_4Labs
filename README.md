@@ -1,12 +1,12 @@
 # CCI_CodingTwo_4Labs  
 ## Hello dear audience! These are my labs in coding-two  
 ## First : "Dreamer"  
-//Open Framework(C++)  
+//Open Framework(C++, win)  
 Video Link: https://youtu.be/3FODBTWMiL0  
 Animation around a big heart and a four-leaf clover, which in my mind is a combination of love and luck.  
 
 ## Second : "3D_Music_Visualization"  
-//Open Framework(C++)  
+//Open Framework(C++, win)  
 Video Link: https://youtu.be/_zdKa-ajMuA  
 Fascinating sound visualization with 3D shapes and danamics  
 
